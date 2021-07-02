@@ -12,6 +12,7 @@
 
 3. The linereader will ignore non-numerical values during pipeline initialization.
 
+4. The user will press "enter" whenever he finished typing the input so the linereader will consume it.
 ## How to run
 **There are couple of options for you to run the code.**
 1. **Manualy**
