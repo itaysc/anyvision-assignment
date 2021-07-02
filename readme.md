@@ -12,12 +12,12 @@
 
 3. The linereader will ignore non-numerical values during pipeline initialization.
 
-##How to run
-There are couple of options for you to run the code.
-1. ###Manualy
+## How to run
+**There are couple of options for you to run the code.**
+1. **Manualy**
    *  First run ```npm install``` in order to install all necessary dependencies.
    *  Build the code using ```npm run build``` or ```yarn build```.
    *  Run the code using ```npm run start``` or ```yarn start```.
-2. ###Using Docker
+2. **Using Docker**
    * From the project's root directory you can ```bash run-and-build.sh```, this will activate a script that will build and run the docker container for you.
    * you can also build and run it yourself using ```docker build -t pipeline .``` to build the container and then ```docker run -a stdin -a stdout -i pipeline``` to run it.
