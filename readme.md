@@ -1,7 +1,7 @@
 # Anyvision home assignment
 ## Created by Itay Schmidt
 
-###**Assumptions made while writing the code**
+**Assumptions made while writing the code**
 
 1. When inserting a filter predicate, I assumed that the input is a valid predicate that looks
    something like "x > 1" (Pay attention that I expect only the predicate/method body and not a function like "x=>x>1")
