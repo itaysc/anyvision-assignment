@@ -20,5 +20,5 @@
    *  Build the code using ```npm run build``` or ```yarn build```.
    *  Run the code using ```npm run start``` or ```yarn start```.
 2. **Using Docker**
-   * From the project's root directory you can run the command ```bash run-and-build.sh```, this will activate a script that will build and run the docker container for you.
+   * From the project's root directory you can run the command ```bash build-and-run.sh```, this will activate a script that will build and run the docker container for you.
    * you can also build and run it yourself using ```docker build -t pipeline .``` to build the container and then ```docker run -a stdin -a stdout -i pipeline``` to run it.
