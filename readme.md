@@ -15,7 +15,7 @@
 4. The user will press "enter" whenever he finished typing the input so the linereader will consume it.
 ## How to run
 **There are couple of options for you to run the code.**
-1. **Manualy**
+1. **Manually**
    *  First run ```npm install``` in order to install all necessary dependencies.
    *  Build the code using ```npm run build``` or ```yarn build```.
    *  Run the code using ```npm run start``` or ```yarn start```.
